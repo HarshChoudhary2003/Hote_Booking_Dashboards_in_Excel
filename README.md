@@ -10,7 +10,7 @@
 
 **Analyzing Hotel Booking Trends, Cancellations, and Guest Patterns**
 
-[Dashboard](#dashboard-overview) • [Insights](#key-insights) • [Features](#dashboard-features) • [Download](#getting-started)
+
 
 </div>
 
